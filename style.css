@@ -2,6 +2,25 @@ body{
     background-color: rgb(15, 124, 219);
 }
 
+nav{
+
+    font-size: 30px;
+}
+
+nav li{
+
+    display: inline-flex;
+    margin-left: 30%;
+
+}
+ 
+nav li:hover{
+        color: red;
+        font-size: 35px;
+        transition: 0,8s
+}
+
+
 h1 {
     text-align: center;
 }
